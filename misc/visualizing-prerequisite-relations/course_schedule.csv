@@ -1,0 +1,16 @@
+﻿subject_code,digit_code,course_code,course_name,prerequisites,expected_term,expected_year,required,term_availability
+CSI,2110,CSI2110,Data Structures and Algorithms," ITI 1121, MAT 1348",F,2017,TRUE,"F, W"
+SEG,2105,SEG2105,Introduction to Software Engineering,ITI 1121,F,2017,TRUE,F
+PSY,4130,PSY4130,History and Systems of Psychology,NA,F,2017,FALSE,"F, W"
+MAT,1320,MAT1320,Calculus I,NA,F,2017,FALSE,"S, F, W"
+CSI,2101,CSI2101,Discrete Structures,MAT 1348,W,2018,TRUE,W
+CSI,2911,CSI2911,Professional Practice in Computing,NA,W,2018,TRUE,W
+CSI,2132,CSI2132,Databases I,CSI 2110,W,2018,TRUE,W
+MAT,1322,MAT1322,Calculus II,MAT 1320,W,2018,FALSE,"S, F, W"
+CSI,2120,CSI2120,Programming Paradigms,CSI 2110,W,2018,TRUE,W
+CSI,3105,CSI3105,Design and Analysis of Algorithms ,"CSI 2110, CSI 2101 ",F,2018,TRUE,F
+CSI,3120,CSI3120,Programming Language Concepts,"CSI 2101, CSI 2120",F,2018,FALSE,F
+SEG,3125,SEG3125,Analysis and Design of User Interfaces,SEG 2105,W,2019,FALSE,"S, W"
+CSI,4130,CSI4130,Computer Graphics,"CSI 3105, MAT 1341",W,2019,FALSE,W
+CSI,3140,CSI3140,"WWW Structures, Techniques and Standards","CSI 2110, CSI 2132",W,2019,FALSE,"S, W"
+CSI,3130,CSI3130,Databases II,CSI 2132,F,2018,FALSE,F

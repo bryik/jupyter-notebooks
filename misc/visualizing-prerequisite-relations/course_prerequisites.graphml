@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="CSI2110">
+      <data key="d0">CSI2110</data>
+    </node>
+    <node id="SEG2105">
+      <data key="d0">SEG2105</data>
+    </node>
+    <node id="PSY4130">
+      <data key="d0">PSY4130</data>
+    </node>
+    <node id="MAT1320">
+      <data key="d0">MAT1320</data>
+    </node>
+    <node id="CSI2101">
+      <data key="d0">CSI2101</data>
+    </node>
+    <node id="CSI2911">
+      <data key="d0">CSI2911</data>
+    </node>
+    <node id="CSI2132">
+      <data key="d0">CSI2132</data>
+    </node>
+    <node id="MAT1322">
+      <data key="d0">MAT1322</data>
+    </node>
+    <node id="CSI2120">
+      <data key="d0">CSI2120</data>
+    </node>
+    <node id="CSI3105">
+      <data key="d0">CSI3105</data>
+    </node>
+    <node id="CSI3120">
+      <data key="d0">CSI3120</data>
+    </node>
+    <node id="SEG3125">
+      <data key="d0">SEG3125</data>
+    </node>
+    <node id="CSI4130">
+      <data key="d0">CSI4130</data>
+    </node>
+    <node id="CSI3140">
+      <data key="d0">CSI3140</data>
+    </node>
+    <node id="CSI3130">
+      <data key="d0">CSI3130</data>
+    </node>
+    <node id="ITI1121">
+      <data key="d0">ITI1121</data>
+    </node>
+    <node id="MAT1348">
+      <data key="d0">MAT1348</data>
+    </node>
+    <node id="MAT1341">
+      <data key="d0">MAT1341</data>
+    </node>
+    <edge source="CSI2110" target="CSI2132" />
+    <edge source="CSI2110" target="CSI2120" />
+    <edge source="CSI2110" target="CSI3105" />
+    <edge source="CSI2110" target="CSI3140" />
+    <edge source="SEG2105" target="SEG3125" />
+    <edge source="MAT1320" target="MAT1322" />
+    <edge source="CSI2101" target="CSI3105" />
+    <edge source="CSI2101" target="CSI3120" />
+    <edge source="CSI2132" target="CSI3140" />
+    <edge source="CSI2132" target="CSI3130" />
+    <edge source="CSI2120" target="CSI3120" />
+    <edge source="CSI3105" target="CSI4130" />
+    <edge source="ITI1121" target="CSI2110" />
+    <edge source="ITI1121" target="SEG2105" />
+    <edge source="MAT1348" target="CSI2110" />
+    <edge source="MAT1348" target="CSI2101" />
+    <edge source="MAT1341" target="CSI4130" />
+  </graph>
+</graphml>
